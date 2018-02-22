@@ -1,4 +1,4 @@
-public static void main()
+public class
 {
 	public void main(string args[])
 	{
